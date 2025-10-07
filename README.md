@@ -16,8 +16,7 @@ This package contains ONLY executable files and dependencies.
 ```
 APISecurityTool-ANAYJAIN-Executable-20251015/
 ├── Executables/
-│   ├── APISecurityTool.exe          # GUI Application (~50-70 MB)
-│   └── api-security-tool.exe        # CLI Application (~50-70 MB)
+│   ├── APISecurityTool.exe          # GUI Application (~50-70 MB)│   
 ├── Documentation/
 │   └── INSTALLATION_GUIDE.md        # Detailed instructions
 ├── LICENSE.txt                      # License agreement
@@ -110,3 +109,4 @@ See LICENSE.txt for complete terms and conditions.
 **Executable Distribution - 2025-10-15**  
 **Portable • No Installation • No Source Code**  
 **Created by ANAYJAIN**
+
