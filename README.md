@@ -30,18 +30,10 @@ APISecurityTool-ANAYJAIN-Executable-20251015/
 3. **Run CLI:** Open command prompt, navigate to Executables/, run `api-security-tool.exe`
 
 ## ✅ What You Get
-- **Standalone Executables** - No Python installation needed
 - **All Dependencies Bundled** - No additional software required
 - **Portable Operation** - Run from any location, USB drive compatible
 - **Professional GUI** - Full-featured graphical interface
-- **Command Line Tools** - Powerful CLI for automation
 - **Complete Functionality** - All features included
-
-## ❌ What's NOT Included
-- **Source Code** - Executable-only distribution
-- **Python Files** - All code compiled into executables
-- **Development Tools** - No build scripts or dev environment
-- **Installation Process** - No installer, just portable executables
 
 ## 🔧 Features
 - **REST API Security Testing** - Comprehensive endpoint testing
@@ -110,3 +102,4 @@ See LICENSE.txt for complete terms and conditions.
 **Executable Distribution - 2025-10-15**  
 **Portable • No Installation • No Source Code**  
 **Created by ANAYJAIN**
+
