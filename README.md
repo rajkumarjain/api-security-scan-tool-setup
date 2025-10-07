@@ -100,6 +100,6 @@ See LICENSE.txt for complete terms and conditions.
 ---
 **ANAYJAIN API Security Testing Tool v1.0.0.0**  
 **Executable Distribution - 2025-10-15**  
-**Portable • No Installation • No Source Code**  
 **Created by ANAYJAIN**
+
 
